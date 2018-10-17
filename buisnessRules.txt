@@ -1,0 +1,21 @@
+- App must authenticate with Office 365 using OAuth2 
+
+- User must be a member of the Universities Office 365 accounts
+
+- Diffrent users will have diffrent priviledges on the appp:
+	
+	Admin: Admin Rights
+	
+	Department Secretary: Secretaty Rights
+	
+	Profesor: Profesor Rights 
+	
+	Jefe de departamento en Ingenieria: Rights
+	
+	Root: All priviledges
+	
+	
+	
+	
+	
+	
